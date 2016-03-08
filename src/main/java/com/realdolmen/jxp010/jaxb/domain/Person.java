@@ -1,9 +1,8 @@
 package com.realdolmen.jxp010.jaxb.domain;
 
-import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlRootElement;
-import javax.xml.bind.annotation.XmlTransient;
-import javax.xml.bind.annotation.XmlType;
+import javax.xml.bind.annotation.*;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Created by heleneshaikh on 08/03/16.
@@ -11,10 +10,12 @@ import javax.xml.bind.annotation.XmlType;
 
 @XmlRootElement
 @XmlType(propOrder = {"firstName", "lastName", "address"})
+
 public class Person {
     private String firstName;
     private String lastName;
     private Address address;
+    private List<String> email = new ArrayList<>();
 
     public Person() {
     }
