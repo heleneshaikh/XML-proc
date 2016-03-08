@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cat xmlns="http://com/realdolmen/jxp010/jaxb/domain">
+    <birthDate>06-04-1988</birthDate>
+    <colour>orange</colour>
+    <firstName>Pixie</firstName>
+    <lastName>Shaikh</lastName>
+</cat>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+    <first_name>Helene</first_name>
+    <lastName>Shaikh</lastName>
+    <address>
+        <street>Oude Leuvensebaan</street>
+        <number>45</number>
+        <postalCode>123</postalCode>
+        <city>Huizingen</city>
+    </address>
+</person>
