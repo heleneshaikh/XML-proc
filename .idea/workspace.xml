@@ -1,7 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="834a12c4-efd2-4ccb-8302-388b82bb3082" name="Default" comment="" />
+    <list default="true" id="834a12c4-efd2-4ccb-8302-388b82bb3082" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/jaxb/domain/ObjectFactory.class" afterPath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/jaxb/domain/ObjectFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/jaxb/domain/Sample.class" afterPath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/jaxb/domain/Sample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/jaxb/domain/package-info.class" afterPath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/jaxb/domain/package-info.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/rest/JaxRsActivator.class" afterPath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/rest/JaxRsActivator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/rest/SampleRestService.class" afterPath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/rest/SampleRestService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/rest/SampleRestServiceEndPoint.class" afterPath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/rest/SampleRestServiceEndPoint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/ws/SampleWebService.class" afterPath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/ws/SampleWebService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/ws/SampleWebServiceEndPoint.class" afterPath="$PROJECT_DIR$/target/classes/com/realdolmen/jxp010/ws/SampleWebServiceEndPoint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jaxb2/.xjcStaleFlag" afterPath="$PROJECT_DIR$/target/jaxb2/.xjcStaleFlag" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started.war" afterPath="$PROJECT_DIR$/target/jxp010-getting-started.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/jaxb/domain/ObjectFactory.class" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/jaxb/domain/ObjectFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/jaxb/domain/Sample.class" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/jaxb/domain/Sample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/jaxb/domain/package-info.class" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/jaxb/domain/package-info.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/rest/JaxRsActivator.class" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/rest/JaxRsActivator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/rest/SampleRestService.class" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/rest/SampleRestService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/rest/SampleRestServiceEndPoint.class" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/rest/SampleRestServiceEndPoint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/ws/SampleWebService.class" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/ws/SampleWebService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/ws/SampleWebServiceEndPoint.class" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/com/realdolmen/jxp010/ws/SampleWebServiceEndPoint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/lib/jdom2-2.0.5.jar" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/lib/jdom2-2.0.5.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/lib/mysql-connector-java-5.1.26.jar" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/lib/mysql-connector-java-5.1.26.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/realdolmen/jxp010/rest/SampleRestClientTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/realdolmen/jxp010/rest/SampleRestClientTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/realdolmen/jxp010/ws/SampleWebServiceClientTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/realdolmen/jxp010/ws/SampleWebServiceClientTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/jxp010_getting_started_war.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/jxp010_getting_started_war.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/jxp010_getting_started_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/jxp010_getting_started_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jxp010-getting-started.iml" afterPath="$PROJECT_DIR$/jxp010-getting-started.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/jaxb/domain/ObjectFactory.java" afterPath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/jaxb/domain/ObjectFactory.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/jaxb/domain/Sample.java" afterPath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/jaxb/domain/Sample.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/jaxb/domain/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/jaxb/domain/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/rest/JaxRsActivator.java" afterPath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/rest/JaxRsActivator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/rest/SampleRestService.java" afterPath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/rest/SampleRestService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/rest/SampleRestServiceEndPoint.java" afterPath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/rest/SampleRestServiceEndPoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/ws/SampleWebService.java" afterPath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/ws/SampleWebService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/ws/SampleWebServiceEndPoint.java" afterPath="$PROJECT_DIR$/src/main/java/com/realdolmen/jxp010/ws/SampleWebServiceEndPoint.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/movies.xml" afterPath="$PROJECT_DIR$/src/main/resources/movies.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/schemas/sample.xsd" afterPath="$PROJECT_DIR$/src/main/resources/schemas/sample.xsd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.html" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/index.xhtml" afterPath="$PROJECT_DIR$/src/main/webapp/index.xhtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/realdolmen/jxp010/rest/SampleRestClientTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/realdolmen/jxp010/rest/SampleRestClientTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/realdolmen/jxp010/ws/SampleWebServiceClientTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/realdolmen/jxp010/ws/SampleWebServiceClientTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/target/classes/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/movies.xml" afterPath="$PROJECT_DIR$/target/classes/movies.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/schemas/sample.xsd" afterPath="$PROJECT_DIR$/target/classes/schemas/sample.xsd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/.faces-config.xml.jsfdia" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/.faces-config.xml.jsfdia" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/beans.xml" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/beans.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/META-INF/persistence.xml" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/META-INF/persistence.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/movies.xml" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/movies.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/schemas/sample.xsd" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/classes/schemas/sample.xsd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/faces-config.xml" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/WEB-INF/faces-config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/index.html" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/jxp010-getting-started/index.xhtml" afterPath="$PROJECT_DIR$/target/jxp010-getting-started/index.xhtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.realdolmen.jxp010/jxp010-getting-started/pom.properties" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.realdolmen.jxp010/jxp010-getting-started/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.realdolmen.jxp010/jxp010-getting-started/pom.xml" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.realdolmen.jxp010/jxp010-getting-started/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.realdolmen.jxp010.rest.SampleRestClientTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.realdolmen.jxp010.rest.SampleRestClientTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.realdolmen.jxp010.ws.SampleWebServiceClientTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.realdolmen.jxp010.ws.SampleWebServiceClientTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.realdolmen.jxp010.rest.SampleRestClientTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.realdolmen.jxp010.rest.SampleRestClientTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.realdolmen.jxp010.ws.SampleWebServiceClientTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.realdolmen.jxp010.ws.SampleWebServiceClientTest.txt" />
+    </list>
     <ignored path="jxp010-getting-started.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,20 +92,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="movies.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="movies.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/movies.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.8353909">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sample.xsd" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sample.xsd" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/schemas/sample.xsd">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -46,7 +115,7 @@
       <file leaf-file-name="index.xhtml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -474,12 +543,12 @@
       <updated>1457425564265</updated>
       <workItem from="1457425568228" duration="218000" />
       <workItem from="1457426233346" duration="3325000" />
-      <workItem from="1457433038504" duration="63000" />
+      <workItem from="1457433038504" duration="444000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3606000" />
+    <option name="totallyTimeSpent" value="3987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="46" y="23" width="1394" height="877" extended-state="6" />
@@ -493,7 +562,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18424396" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.317662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20192307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -572,26 +641,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/movies.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -608,6 +661,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.xhtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/movies.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8353909">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
           <folding />
         </state>
       </provider>
